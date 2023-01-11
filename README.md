@@ -10,12 +10,12 @@ pip install -r requirements.txt
 ```
 Simple app consisting of a form where you can upload an image, and see the inference result of the model in the browser. Run:
 
-` python3 webapp.py --port 5000`
+` py app.py --port 5000`
 
 then visit http://localhost:5000/ in your browser:
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/yolov5-flask-object-detection/blob/main/Screen%20Shot%201444-04-10%20at%2012.52.33%20PM.png" width="450">
+<img src="https://user-images.githubusercontent.com/104357148/211301918-9024b49c-c006-4d4e-b476-a3d7acd87640.png" width="450">
 </p>
 
 <p align="center">
