@@ -8,19 +8,11 @@ Animals = ['Bear', 'Brown bear', 'Bull', 'Butterfly', 'Camel', 'Canary', 'Caterp
 ```
 pip install -r requirements.txt
 ```
-Simple app consisting of a form where you can upload an image, and see the inference result of the model in the browser. Run:
+- Simple app consisting of a form where you can upload an image, and see the inference result of the model in the browser. Run:
 
 ` py app.py --port 5000`
 
 then visit http://localhost:5000/ in your browser:
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/104357148/211301918-9024b49c-c006-4d4e-b476-a3d7acd87640.png" width="450">
-</p>
-
-<p align="center">
-<img src="https://github.com/noorkhokhar99/yolov5-flask-object-detection/blob/main/static/image0.jpg" width="450">
-</p>
 
 # Image Detected
 
