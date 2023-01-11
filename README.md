@@ -16,12 +16,12 @@ then visit http://localhost:5000/ in your browser:
 
 # Image Detected
 
-![0](https://user-images.githubusercontent.com/104357148/211301918-9024b49c-c006-4d4e-b476-a3d7acd87640.png)
+![0](https://user-images.githubusercontent.com/100455964/211729122-ea5458ae-e270-49f1-84d6-29f33b5007bc.png)
 
-![1](https://user-images.githubusercontent.com/104357148/211300988-01ec8477-a676-4de9-b2c1-ec1d914aea9a.png)
+![1](https://user-images.githubusercontent.com/100455964/211729125-0eb5be43-f4a9-4eab-836a-2a436552cce6.png)
 
-![2](https://user-images.githubusercontent.com/104357148/211301043-6aec9c7e-d779-432b-9dfa-a0f2cc54959d.png)
+![2](https://user-images.githubusercontent.com/100455964/211729109-101ed5a6-853c-4aa0-86bc-c133e21afd29.png)
 
-![3](https://user-images.githubusercontent.com/104357148/211301094-b2d848a9-aa2a-499c-992e-91b84f9b8873.png)
+![3](https://user-images.githubusercontent.com/100455964/211729116-a253e7fa-67e0-4aa1-8f20-1ebd87caee51.png)
 
-![4](https://user-images.githubusercontent.com/104357148/211301105-370a26d3-8420-47ec-a0c4-e27369f5cf0e.png)
+![4](https://user-images.githubusercontent.com/100455964/211729120-cd33f76a-968f-421f-8776-bb73ffe4717e.png)
