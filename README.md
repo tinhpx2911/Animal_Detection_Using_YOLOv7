@@ -9,8 +9,9 @@ Animals = ['Bear', 'Brown bear', 'Bull', 'Butterfly', 'Camel', 'Canary', 'Caterp
 pip install -r requirements.txt
 ```
 - Simple app consisting of a form where you can upload an image, and see the inference result of the model in the browser. Run:
-
-` py app.py `
+```
+py app.py
+```
 
 then visit http://localhost:5000/ in your browser:
 
